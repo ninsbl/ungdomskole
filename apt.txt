@@ -1,0 +1,4 @@
+gdal-bin
+libgdal-dev
+libnetcdf-dev
+netcdf-bin
