@@ -3,3 +3,4 @@ libgdal-dev
 libnetcdf-dev
 netcdf-bin
 python3-gdal
+python3-numpy
