@@ -1,5 +1,5 @@
 numpy<2.0
-gdal==3.4.1
+gdal[numpy]==3.4.1
 leafmap>=0.11.3
 localtileserver>=0.10.0
 owslib
