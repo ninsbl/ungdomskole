@@ -2,6 +2,7 @@ leafmap>=0.11.3
 localtileserver>=0.10.0
 numpy<2.0
 owslib
+netCDF4
 thredds_crawler
 cf_units
 siphon
