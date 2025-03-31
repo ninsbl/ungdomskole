@@ -1,3 +1,4 @@
+gdal==$(gdal-config --version)
 leafmap>=0.11.3
 localtileserver>=0.10.0
 numpy<2.0
