@@ -8,3 +8,4 @@ thredds_crawler
 cf_units
 siphon
 xarray
+rasterio
